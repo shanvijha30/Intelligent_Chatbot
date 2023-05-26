@@ -16,7 +16,6 @@ Digitization is transforming society into a mobile-first population. As messagin
 <b>The project aims to have a fully functional personal assistant, making the world a more efficient and connected place to live and work.</b>
 
 
-![Alt text](friendly-chatbot.jpg)
 
 </div>
 
@@ -48,15 +47,7 @@ Interesting applications of chatbots in various industries:
 - Education
 - Finance
 
-### METHODOLOGY 
 
-To depict the methodology of the project here is a Flowchart:
-
-<div align="center">
-
-![Alt text](flowchart.png)
-
-</div>
 
 
 #### Let’s see how the Training Data is being loaded
@@ -108,14 +99,7 @@ The expected outcome of this project is to build a Chatbot. Following a logical 
 
 - It saves time, effort, and costs that further leads to increased customer satisfaction and increased engagement in any business.
 
-### OUTCOME
 
-![Alt text](output1.png)
-
-![Alt text](output2.png)
-
-### GRAPHICAL USER INTERFACE
-![Alt text](gui%20app.png)
 
 
 
