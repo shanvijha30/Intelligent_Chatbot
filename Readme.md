@@ -38,7 +38,7 @@ Chatbot could be implemented and be perfect for :
 
 - Reduces cost and boost operational efficiency.
 
-### APLLICATION OF THE PROJECT
+### APPLICATION OF THE PROJECT
 
 Interesting applications of chatbots in various industries:
 - Travel such as Book Flights
